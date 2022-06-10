@@ -4,12 +4,13 @@ footer{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    border-top: 1px outset whitesmoke;
+    margin-bottom: 10px;
 }
 .pFooter{
     font-size: 1.2rem;
     text-align: center;
-    margin-bottom: 20px;   
+    margin-bottom: 20px;
 }
 .pFooter a{
     color: dimgray;
